@@ -50,7 +50,7 @@
 <!--- stats (end) -->
 <!--- trophy (start) -->
 <div align="center">
- ![](https://github-profile-trophy.screw-hand.vercel.app/?username=rdvnkdyf)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rdvnkdyf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <!--- trophy (start) -->
 <p></p>        
