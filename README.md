@@ -50,9 +50,7 @@
 <!--- stats (end) -->
 <!--- trophy (start) -->
 <div align="center">
-  <a href="https://github.com/rdvnkdyf/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=rdvnkdyf&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
-    </a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=rdvnkdyf&theme=onedark)](https://github.com/rdvnkdyf/github-profile-trophy)
 </div>
 <!--- trophy (start) -->
 <p></p>        
