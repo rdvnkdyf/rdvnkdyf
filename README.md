@@ -50,7 +50,7 @@
 <!--- stats (end) -->
 <!--- trophy (start) -->
 <div align="center">
-[[![trophy](https://github-profile-trophy.vercel.app/?username=rdvnkdyf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=rdvnkdyf&row=2&column=3)
+
 </div>
 <!--- trophy (start) -->
 <p></p>        
